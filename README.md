@@ -56,3 +56,6 @@ Once you have a complete database, do the following:
 ### Copyright
 
 Alex Arnold © 2020. All Rights Reserved.
+
+### Contact
+Alex Arnold: alexnarnold630@gmail.com <br>
